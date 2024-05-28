@@ -1,0 +1,9 @@
+Feature:
+
+Verificar diferentes chamadas de Gets e Posts usando Rest Assured
+
+Scenario: Verificarum autor do post
+	Given Executo um GET para a operacao do "/posts"
+	Then Eu exibo o nome do autor como "Karthik kk"
+
+

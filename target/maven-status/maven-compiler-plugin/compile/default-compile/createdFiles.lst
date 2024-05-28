@@ -1,0 +1,5 @@
+br\ce\wcaquino\rest\OlaMundo.class
+br\ce\wcaquino\rest\OlaMundoTest.class
+br\ce\wcaquino\rest\UserJsonTest.class
+br\ce\wcaquino\rest\VerbosHTTP.class
+br\ce\wcaquino\rest\UserXMLTest.class
